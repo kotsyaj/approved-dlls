@@ -1,2 +1,1 @@
-# approved-dlls
-collection of approved dlls for lak
+# collection of approved dlls for laki
